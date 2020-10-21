@@ -31,3 +31,6 @@ php artisan make:model Customer -m
 ```
 php artisan migrate
 ```
+````
+php artisan migrate:refresh
+````

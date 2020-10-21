@@ -1,0 +1,9 @@
+- [x]   Laravel 7 CRUD
+- [ ]   Laravel 8 CRUD
+- [ ]   Picture Upload
+- [ ]   File Upload With Validation
+- [ ]   Pagination
+- [ ]   View Restirect/Redirect
+- [ ]   Built Blog Site
+- [ ]   Built Blog Site Admin Panel
+- [ ]
