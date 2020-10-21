@@ -6,4 +6,4 @@
 - [ ]   View Restirect/Redirect
 - [ ]   Built Blog Site
 - [ ]   Built Blog Site Admin Panel
-- [ ]
+- [x]   Blade Templates
