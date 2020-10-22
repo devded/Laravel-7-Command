@@ -1,0 +1,31 @@
+- [ ] Getting Started
+    - [ ] Installation
+    - [ ] Configuration
+    - [ ] Directory Structure
+    - [ ] Homestead
+    - [ ] Valet
+    - [ ] Deployment
+
+---
+- [ ] Architecture Concepts
+    - [ ] Request Lifecycle
+    - [ ] Service Container
+    - [ ] Service Providers
+    - [ ] Facades
+    - [ ] Contracts
+
+---
+
+- [ ] The Basics
+    - [ ] Routing
+    - [ ] Middleware
+    - [ ] CSRF Protection
+    - [ ] Controllers
+    - [ ] Requests
+    - [ ] Responses
+    - [ ] Views
+    - [ ] URL Generation
+    - [ ] Session
+    - [ ] Validation
+    - [ ] Error Handling
+    - [ ] Logging
