@@ -34,3 +34,25 @@ php artisan migrate
 ````
 php artisan migrate:refresh
 ````
+
+
+### Auth
+
+````
+composer require laravel/ui:^2.4
+````
+````
+php artisan ui vue --auth
+````
+
+### Cache Clear
+
+````
+php artisan config:cache
+````
+````
+php artisan cache:clear
+````
+````
+php artisan config: clear
+````

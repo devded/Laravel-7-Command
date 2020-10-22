@@ -11,7 +11,7 @@
     - [x]   Built in Auth
     - [ ]   Custom Auth
     - [x]   Facebook
-    - [ ]   Twitter
+    - [x]   Twitter
     - [x]   Google
     - [x]   Github
     - [ ]   Linkedin
