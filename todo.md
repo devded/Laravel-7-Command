@@ -1,9 +1,17 @@
 - [x]   Laravel 7 CRUD
 - [ ]   Laravel 8 CRUD
-- [ ]   Picture Upload
-- [ ]   File Upload With Validation
-- [ ]   Pagination
-- [ ]   View Restirect/Redirect
+- [x]   Picture Upload
+- [x]   File Upload With Validation
+- [x]   Pagination
+- [x]   View Restirect/Redirect
 - [ ]   Built Blog Site
 - [ ]   Built Blog Site Admin Panel
 - [x]   Blade Templates
+- [ ]   Auth System
+    - [x]   Built in Auth
+    - [ ]   Custom Auth
+    - [x]   Facebook
+    - [ ]   Twitter
+    - [x]   Google
+    - [x]   Github
+    - [ ]   Linkedin
