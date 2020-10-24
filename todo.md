@@ -16,4 +16,7 @@
     - [x]   Github
     - [ ]   Dropbox
     - [ ]   Linkedin
-
+- [ ]   Sent Email 
+    - [x] Single Template Mail
+    - [x] Multiple Template Mail
+- [ ]   Verify Email
