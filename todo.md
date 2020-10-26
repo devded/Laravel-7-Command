@@ -19,4 +19,8 @@
 - [ ]   Sent Email 
     - [x] Single Template Mail
     - [x] Multiple Template Mail
-- [ ]   Verify Email
+- [x]   Verify Email
+- [x]   Middleware
+- [ ]   Fetch API
+- [ ]   Built API
+- [ ]   Subdomain
