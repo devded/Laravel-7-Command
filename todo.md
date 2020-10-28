@@ -4,7 +4,7 @@
 - [x]   File Upload With Validation
 - [x]   Pagination
 - [x]   View Restirect/Redirect
-- [ ]   Built Blog Site
+- [x]   Built Blog Site
 - [ ]   Built Blog Site Admin Panel
 - [x]   Blade Templates
 - [ ]   Auth System
@@ -19,11 +19,11 @@
     - [x]   Github
     - [ ]   Dropbox
     - [ ]   Linkedin
-- [ ]   Sent Email 
+- [x]   Sent Email 
     - [x] Single Template Mail
     - [x] Multiple Template Mail
 - [x]   Verify Email
 - [x]   Middleware
-- [ ]   Fetch API
+- [x]   Fetch API
 - [ ]   Built API
 - [ ]   Subdomain
