@@ -62,3 +62,17 @@ php artisan config: clear
 ````
 php artisan make:mail verifyMail
 ````
+
+### Cache Clear
+
+````
+php artisan config:clear
+php artisan cache:clear
+php artisan route:clear
+php artisan view:clear
+php artisan optimize
+````
+
+````
+php artisan config:cache
+````

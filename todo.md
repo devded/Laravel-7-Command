@@ -10,6 +10,9 @@
 - [ ]   Auth System
     - [x]   Built in Auth
     - [ ]   Custom Auth
+        - [x]   Login
+        - [x]   Register
+        - [ ]   Forget Password
     - [x]   Facebook
     - [x]   Twitter
     - [x]   Google
